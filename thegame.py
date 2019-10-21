@@ -153,7 +153,7 @@ try:
 except:
 	print('Enter your name:', end = '\n')
 	N = input()
-	add_result(N, count)
+	add_results(N, z1+z2+z3 + 1)
 
 
 
